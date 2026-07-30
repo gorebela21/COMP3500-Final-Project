@@ -29,7 +29,6 @@ This project implements a client and server that negotiate a connection, then sh
 ## Requirements
 
 - Python 3.x
-- *(List any non-standard packages here. If you only use the standard library — `socket`, etc. — say "standard library only.")*
 
 ## Usage
 
