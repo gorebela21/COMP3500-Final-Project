@@ -27,9 +27,11 @@ This project implements a client and server that negotiate a connection, then sh
 | `README.md` | This file. |
 
 ## Requirements
-
+```
 - Python 3.x
-
+- A terminal / command line to run the scripts
+- Standard library
+```
 ## Usage
 
 Run the server and client in **separate terminals**.
