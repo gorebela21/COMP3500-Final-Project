@@ -1,6 +1,6 @@
-# COMP3500-Final-Project
+# COMP 3500-Final-Project
 Secure UDP Chat Application
-# COMP 3500 — Final Project
+
 
 A socket-programming project demonstrating client–server communication over TCP and UDP, along with a **protocol downgrade attack** against the connection.
 
